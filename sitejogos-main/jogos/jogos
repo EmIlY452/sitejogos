@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Carrinho de Compras</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Meu Carrinho de Compras</h1>
+    </header>
+    <main>
+        <section id="c">
+            <!-- Aqui vai o conteúdo do carrinho, que pode ser gerado dinamicamente com JavaScript -->
+            <div class="cart-item">
+                <img src="" alt="Produto 1">
+                <div class="item-info">
+                    <h2></h2>
+                    <p>Preço: </p>
+                    <input type="number" value="1">
+                    <button class="remove-item">Remover</button>
+                </div>
+            </div>
+        </section>
+        <section id="summary">
+            <h2>Resumo do Pedido</h2>
+            <div>
+                <p>Total: R$ 50,00</p>
+                <button class="checkout-button">Finalizar Compra</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Minha Loja Online</p>
+    </footer>
+</body>
+</html>

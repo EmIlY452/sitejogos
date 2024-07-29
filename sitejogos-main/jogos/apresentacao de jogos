@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html  lang="pt-BR">
+<head>
+     <meta charsert="UTF-8">
+     <meta name="viewport" content="width=device-width,">
+     <title>Jogos</title>
+    <link rel="stylesheet" href="styles.css">
+        
+
+</head>
+<body>
+
+<header>
+<h1>Jogos</h1>
+</header>
+
+<div class="container">
+
+<div class="produto">
+</div>
+</div>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="windth=device-width">
+<title>Tela de login</title>
+
+<div>
+    <h1>login</h1>
+    <input type="text" placeholder="Nome">
+    <br><br>
+    <input type="password" placeholder="senha">
+    <br><br>
+    <button>Enviar</button>
+     <meta charsert="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="">
+     <title rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+     <title>Mostrar e esconder a senha</title>
+</head>
+<body>
+     
+    <div>
+
+</body>
+</html>
+
+<meta charsert="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>colocando imagens pequenas</title>
+<head>
+    <body>
+        <h1>Jogos</h1> 
+        <img src="" alt="">
+    </body>
+</head>
+<div class="variedades">
+    <div class="conteudo">
+    <br>
+    <br>
+    </div>
+    <div class="info-produto">
+    <label for="quantidade_produto1">Quantidade:</label>
+    <input type="number" class="quantidade" value="1" id="quantidade_produto1" readonly>
+    <label for="preco_produto1">Preço:</label>
+    <input type="number" class="preco" value="12.50" readonly id="preco_produto1">
+    <button onclick="adicionarOpcao('produto1', 'Limão Taiti')" class="botao">Adicionar ao Carrinho</button>
+    </div>
+    </div>
+
+
+    <head>
+        <body>
+            <h1>Limão Ciciliano</h1> 
+            <img src="abc.jpeg" alt="">
+        </body>
+    </head>
+    <div class="variedades">
+        <div class="conteudo">
+        <br>
+        <br>
+        </div>
+        <div class="info-produto">
+        <label for="quantidade_produto1">Quantidade:</label>
+        <input type="number" class="quantidade" value="1" id="quantidade_produto1" readonly>
+        <label for="preco_produto1">Preço:</label>
+        <input type="number" class="preco" value="18.00" readonly id="preco_produto1">
+        <button onclick="adicionarOpcao('produto1', 'Limão Taiti')" class="botao">Adicionar ao Carrinho</button>
+        </div>
+        </div>
+    
+        <head>
+            <body>
+                <h1>Limão Amarelo</h1> 
+                <img src="Limón amarelo.jpeg" alt="">
+            </body>
+        </head>
+        <div class="variedades">
+            <div class="conteudo">
+            <br>
+            <br>
+            </div>
+            <div class="info-produto">
+            <label for="quantidade_produto1">Quantidade:</label>
+            <input type="number" class="quantidade" value="1" id="quantidade_produto1" readonly>
+            <label for="preco_produto1">Preço:</label>
+            <input type="number" class="preco" value="20.00" readonly id="preco_produto1">
+            <button onclick="adicionarOpcao('produto1', 'Limão Taiti')" class="botao">Adicionar ao Carrinho</button>
+            </div>
+            </div>
+        
+ 

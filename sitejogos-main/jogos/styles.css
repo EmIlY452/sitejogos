@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8bdd8d;
+}
+header {
+    background-color: #00ff08;
+    margin: auto;
+    padding: 20px;
+}
+.produto {
+    background-color: #00ff08;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0,1);
+}
+.produto img {
+    max-width: 10%;
+    height: auto;
+}
+.produto h2 {
+    margin-bottom: 10px;
+}
+.produto p {
+    margin-top: 0;
+}
+.produto button {
+      padding: 10px 20px;
+      background-color: #00ff08;
+      border: none;
+      color:white;
+      cursor: pointer;
+      border-radius: 5px;
+}
+.produto button:hover {
+    background-color: #00ff08;
+}
+
+div{ 
+    position: relative;
+}
+
+input{
+    width: 250px;
+    line-height: 40px;
+    border: 0;
+    outline: 0;
+}
